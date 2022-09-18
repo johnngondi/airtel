@@ -1,9 +1,11 @@
 # Airtel Money API PHP SDK
 Airtel Money API PHP SDK
 
+This is a fork from https://github.com/osenco/airtel visit that URL for original package
+
 ## Installation
 ```bash
-composer require osenco/airtel
+composer require johnngondi/airtel
 ```
 
 ## Collection APIs
